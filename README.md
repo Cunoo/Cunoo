@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning machine learning.<br>Ask me about anything.<br>Fun fact I like animals and electric
+<br>Ask me about anything.
 
 
 ## 🌐 Socials:
